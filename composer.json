@@ -1,5 +1,5 @@
 {
-  "name": "nickcv/yii2-mandrill",
+  "name": "biller/yii2-mandrill",
   "description": "Mandrill Api Integration for Yii2",
   "type": "yii2-extension",
   "keywords": [

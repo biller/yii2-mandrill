@@ -37,7 +37,7 @@
   },
   "autoload": {
     "psr-4": {
-      "nickcv\\mandrill\\": "src/"
+      "biller\\mandrill\\": "src/"
     }
   }
 }

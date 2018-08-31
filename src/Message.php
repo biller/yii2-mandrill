@@ -9,7 +9,7 @@
  * @author Nicola Puddu <n.puddu@outlook.com>
  */
 
-namespace nickcv\mandrill;
+namespace biller\mandrill;
 
 use yii\helpers\ArrayHelper;
 use yii\helpers\FileHelper;

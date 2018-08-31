@@ -9,7 +9,7 @@
  * @author Nicola Puddu <n.puddu@outlook.com>
  */
 
-namespace nickcv\mandrill;
+namespace biller\mandrill;
 
 use yii\mail\BaseMailer;
 use yii\base\InvalidConfigException;
@@ -71,7 +71,7 @@ class Mailer extends BaseMailer
     /**
      * @var string message default class name.
      */
-    public $messageClass = '\nickcv\mandrill\Message';
+    public $messageClass = '\biller\mandrill\Message';
 
     /**
      * @var Mandrill the Mandrill instance

@@ -1082,7 +1082,7 @@ class Message extends BaseMessage
     public function setGlobalMergeVars(array $mergeVars)
     {
         foreach ($mergeVars as $name => $content) {
-            if ($name{0} === '_') {
+            if ($name[0] === '_') {
                 continue;
             }
 
